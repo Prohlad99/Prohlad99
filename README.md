@@ -1,3 +1,4 @@
+![logo](https://github.com/Prohlad99/Prohlad99/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prohlad Mandal</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif">
